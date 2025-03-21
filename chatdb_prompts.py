@@ -10,10 +10,10 @@ The output should be a markdown code snippet formatted in the following schema, 
 including the leading and trailing "\`\`\`" and "\`\`\`":
 ```
 Step1: <Description of first step>
-SQL command for step1
+`SQL command for step1`
 
 Step2: <Description of second step>
-SQL command for step2
+`SQL command for step2`
 
 ......
 ```
